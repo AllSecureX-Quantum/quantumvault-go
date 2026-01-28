@@ -1,5 +1,17 @@
 # QuantumVault Go SDK
 
+<p align="center">
+  <strong>A Product of <a href="https://allsecurex.com">AllSecureX</a></strong><br>
+  Enterprise-Grade Post-Quantum Cryptography
+</p>
+
+<p align="center">
+  <a href="https://github.com/AllSecureX-Quantum/quantumvault-go/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue.svg" alt="License"></a>
+  <a href="https://pkg.go.dev/github.com/AllSecureX-Quantum/quantumvault-go"><img src="https://pkg.go.dev/badge/github.com/AllSecureX-Quantum/quantumvault-go.svg" alt="Go Reference"></a>
+</p>
+
+---
+
 **Post-quantum cryptography for Go applications - FIPS 203/204/205 compliant.**
 
 This package provides quantum-safe cryptographic primitives for Go, implementing NIST-standardized post-quantum algorithms:
